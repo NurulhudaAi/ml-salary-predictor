@@ -72,7 +72,7 @@ Models and configurations saved under `model/` folder (`model.joblib`, `config.j
 |:------|:----------:|:----------:|:----------:|:----------:|
 | **KNN** | 0.79 | 0.73 | 0.78 | 0.75 | 
 | **XGB** | 0.81 | 0.76 | 0.79 | 0.78 | 
-| **Random Forest** | 0.73 | 0.78 | 0.79 | 0.75 | 
+| **Random Forest** | 0.81 | 0.78 | 0.79 | 0.75 | 
 | **ANN (20,10)** | **0.84** | **0.80** | **0.82** | **0.81** |
 
 > The ANN model outperformed both Logistic Regression and Random Forest in all major metrics, demonstrating better ability to learn complex relationships.
