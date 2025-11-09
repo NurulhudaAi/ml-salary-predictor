@@ -61,7 +61,7 @@ Models and configurations saved under `model/` folder (`model.joblib`, `config.j
 | Precision | 0.872 | 0.804 | 0.843 |
 | Recall | 0.854 | 0.827 | 0.842 |
 | F1-Score | 0.863 | 0.815 | **0.843** |
-| **Accuracy** | – | – | **0.842** |
+| **Accuracy** |  | – | **0.842** |
 
 > The ANN achieved **84.2% accuracy**, showing balanced precision and recall.
 
